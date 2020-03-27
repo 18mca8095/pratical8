@@ -1,0 +1,23 @@
+{
+  "chandigarh": [
+    {
+      "name": "Guruvir",
+      "class": "mca"
+    },
+    {
+      "name": "Shubham",
+      "class": "bca"
+    }, {
+      "name": "Prashant",
+      "class": "nur"
+    },
+    {
+      "name": "Uday",
+      "class": "phd"
+    },
+    {
+      "name": "Anmol",
+      "class": "pre nur"
+    }
+  ]
+}
